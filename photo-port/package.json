@@ -1,6 +1,6 @@
 {
-  "name": "phoyo-port",
   "homepage": "http://AbeerTannous.github.io/photo-port",
+  "name": "phoyo-port",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
